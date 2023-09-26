@@ -1,0 +1,38 @@
+body{
+    background-color:white;
+}
+header{
+    background-color: skyblue;
+    margin:0;
+    padding: 2%;
+    color: rgb(218, 91, 32);
+    text-align: center;
+}
+.container {
+ margin: 10px;
+ background-color: rgb(10, 233, 10)  ;
+ padding: 10px;
+ width: 200px;
+ height: auto;
+}
+.container1{
+ margin: 10px;
+ background-color: rgb(64, 71, 160)  ;
+ padding: 10px;
+ width: 200px;
+ height: auto;
+}
+.container2 {
+ margin: 10px;
+ background-color: rgb(160, 9, 109)  ;
+ padding: 10px;
+ width: 200px;
+ height: auto;
+}
+div h3{
+    color: rgb(233, 232, 236);
+    text-align: center;
+}
+div{
+    display:inline-block;
+}
